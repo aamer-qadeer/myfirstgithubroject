@@ -1,3 +1,7 @@
 Hello World
 changes made online
 changes made online for git pull
+
+-------------------------------
+
+changes locally made using SmartGit
